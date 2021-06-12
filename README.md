@@ -14,7 +14,7 @@ Three key observations from the analysis are:
 
 ## Summary
 
-The temperatures in June tend to be higher and more consistent than in December so it is reasonable to expect business to be better in June.  Temperatures in June are 75 degrees or higher approximately 95% of the time so we should be thoughtful about how to optimize the ice cream consumption experience for customers – we don’t want it melting away!
+The temperatures in June tend to be higher and more consistent than in December so it is reasonable to expect business to be better in June.  Temperatures in June are 70 degrees or higher approximately 95% of the time so we should be thoughtful about how to optimize the ice cream consumption experience for customers – we don’t want it melting away!
 
 While temperatures in December tend to be lower and a little less stable, they still appear to be ideal to support a surf and ice cream shop.  The minimum of 56 degrees does not concern me since an additional query of the data confirmed only 6 instances of temperatures below 60 degrees.
 
