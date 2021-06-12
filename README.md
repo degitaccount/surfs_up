@@ -10,7 +10,7 @@ Three key observations from the analysis are:
 2. Largest temperature differences are at or below the 50th percentile, whereas the 75th percentile and max temperatures are no more than 3 degrees apart
 3. The minimum temperature of 56 degrees in December could be a bit cold for warn weather surfing
  
-  <INSERT IMAGES>
+![JuneDecStats](https://github.com/degitaccount/surfs_up/blob/main/JunDecStats.png)
 
 ## Summary
 
@@ -18,4 +18,4 @@ The temperatures in June tend to be higher and more consistent than in December 
 
 While temperatures in December tend to be lower and a little less stable, they still appear to be ideal to support a surf and ice cream shop.  The minimum of 56 degrees does not concern me since an additional query of the data confirmed only 6 instances of temperatures below 60 degrees.
 
-  <INSERT IMAGES>
+![JuneDecQueries](https://github.com/degitaccount/surfs_up/blob/main/JunDecQueries.png)
